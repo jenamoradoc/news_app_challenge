@@ -1,0 +1,47 @@
+.header {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+#search-form {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+#search-form input,
+#search-form button {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+#search-form input {
+  width: 20rem;
+}
+
+#search-form button {
+  background: #333;
+  color: #fafafa;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  #search-form {
+    gap: 0.75rem;
+  }
+
+  #search-form input {
+    width: 100%;
+    padding: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  #search-form input,
+  #search-form button {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+}

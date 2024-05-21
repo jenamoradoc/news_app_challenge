@@ -1,0 +1,34 @@
+.navbar {
+  background: #333;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.navbar-brand {
+  align-items: center;
+  color: #fafafa;
+  display: flex;
+  gap: 5px;
+  text-decoration: none;
+}
+
+.navbar .login-btn {
+  background: #fafafa;
+  border-radius: 5px;
+  border: none;
+  color: #333;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  height: 30px;
+  line-height: 0;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.navbar div {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
