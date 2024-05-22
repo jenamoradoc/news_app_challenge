@@ -54,6 +54,10 @@ Individual news Page
 
 <img width="1511" alt="Screenshot 2024-05-21 at 10 12 29 PM" src="https://github.com/jenamoradoc/news_app_challenge/assets/26368576/2bace317-52a3-423b-821f-d8ae38965902">
 
+Responsive 
+
+<img width="619" alt="Screenshot 2024-05-22 at 11 34 47 AM" src="https://github.com/jenamoradoc/news_app_challenge/assets/26368576/6c05cbc4-64c0-4516-add6-dd84f6c2c7ce">
+
 
 # Known Bugs
 There are no known bugs of this project at the moment.
