@@ -22,6 +22,7 @@ News app challenge based on the requires from [FUDO](https://fu.do/es-ar/), this
 ## Installation
 
 Use the package manager [YARN](https://yarnpkg.com/) to install Node Modules on the app folder. 
+### Dont forget to copy .env file to your repo
 
 ```bash
 yarn install
