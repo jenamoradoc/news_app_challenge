@@ -4,7 +4,7 @@
 * By David Enamorado on May 21th
 
 # Description
-News app challenge based on the requires from [FUDO](https://fu.do/es-ar/), this app uses ReactJS, Tyoescript & Vite.
+News app challenge based on the requires from [FUDO](https://fu.do/es-ar/), this app uses ReactJS, Typescript & Vite.
 
 # Setup Requirements
 * Web Browser (Chrome or Firefox)
